@@ -1,3 +1,4 @@
+Atividade da cadeira de Ambientes de Desenvolvimento de Software
 1. Fazer download do arquivo zip e abri-lo no Visual Studio Code
 2. No terminal, colocar os seguintes comandos:
    - npm init -y (inicializa um novo projeto Node.js com configurações padrão ou acessa um projeto existente sem fazer alterações)
